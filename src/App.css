@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.range-container {
+  width: 90%;
+  margin: 0 auto;
+}
